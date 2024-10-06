@@ -1,0 +1,73 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log
+.pnpm-debug.log*
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+# Include compiled Go binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Golang
+*.exe
+*.out
+*.test
+vendor/
+coverage.out
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bz2
+*.log
+
+# React
+build/
+.DS_Store
+
